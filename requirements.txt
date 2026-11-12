@@ -1,0 +1,8 @@
+flask>=3.0
+opencv-contrib-python-headless>=4.8
+numpy
+scipy
+librosa
+soundfile
+cryptography
+pytest
