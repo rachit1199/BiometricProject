@@ -12,6 +12,9 @@ python -m pytest -q tests      # 12 tests
 ```
 
 <img src="https://github.com/rachit1199/BiometricProject/blob/main/1.png" width="700">
+<img src="https://github.com/rachit1199/BiometricProject/blob/main/2.png" width="700">
+<img src="https://github.com/rachit1199/BiometricProject/blob/main/3.png" width="700">
+<img src="https://github.com/rachit1199/BiometricProject/blob/main/4.png" width="700">
 
 
 ## What's new in v2
