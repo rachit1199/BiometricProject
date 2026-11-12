@@ -11,6 +11,9 @@ ENROLL_INVITE=mycode python app.py   # optionally restrict who can enrol
 python -m pytest -q tests      # 12 tests
 ```
 
+<img src="https://github.com/rachit1199/BiometricProject/blob/main/1.png" width="700">
+
+
 ## What's new in v2
 | Area | Upgrade |
 |---|---|
